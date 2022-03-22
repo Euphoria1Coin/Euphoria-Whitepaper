@@ -1,7 +1,7 @@
 <img src="https://pbs.twimg.com/profile_banners/1504663446004002819/1647580766/1500x500" class=img-responsive>
 
 <p align="right">
-<tt>Warning - this repo is synced with the online version here: <a href="https://whitepaper.treecoin.online">https://whitepaper.treecoin.online</a></tt>
+<tt>Warning - this repo is synced with the online version here: <a href="https://www.EuphoriaMarket.io">https://www.EuphoriaMarket.io</a></tt>
 </p>
 
 # EUPHORIA Whitepaper
@@ -88,4 +88,4 @@ offering Large rewards in Ethereum.
 </p>
 <br>
 
-→ [Discover more on the official website](https://whitepaper.treecoin.online)
+→ [Discover more on the official website](https://www.EuphoriaMarket.io)
