@@ -1,7 +1,7 @@
 <img src="https://pbs.twimg.com/profile_banners/1504663446004002819/1647580766/1500x500" class=img-responsive>
 
 <p align="right">
-<tt>Warning - this repo is synced with the online version here: <a href="https://www.EuphoriaMarket.io">https://www.EuphoriaMarket.io</a></tt>
+<tt>Warning - this repo is synced with the online version here: <a href="https://euphoriamarket.io/token/index.html">https://euphoriamarket.io/token/index.html</a></tt>
 </p>
 
 # EUPHORIA Whitepaper
