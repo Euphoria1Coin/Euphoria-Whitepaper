@@ -5,7 +5,7 @@
 </p>
 
 # EUPHORIA Whitepaper
-Euphoria<sup>®</sup>marketplace is the next generation of NFT marketplace
+Euphoriamarketplace<sup>®</sup> is the next generation of NFT marketplace
 It is the advancement of the industry. With the
 mistakes of our innovators in our hands, we have created
 Something better, something more efficient, something safer.
